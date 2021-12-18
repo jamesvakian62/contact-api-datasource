@@ -4,6 +4,7 @@ Contacts, hover, props, map, api (datasource), json, sidebar
 
 ![Screen Shot 2021-12-16 at 9 10 14 AM](https://user-images.githubusercontent.com/95377031/146417454-d0d3b2a4-c13c-450c-9ae4-b367886518da.png)
 
+GitHub: "Contacts", original, local array of object, datasource, 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
